@@ -6,8 +6,6 @@ Pure Python formant synthesis engine that generates a complete UTAU/OpenUTAU voi
 
 **あいうえお (a-i-u-e-o) vowel sequence:**
 
-https://github.com/user-attachments/assets/demo-placeholder
-
 > [demo/aiueo.wav](demo/aiueo.wav) — generated entirely by additive sine synthesis + formant filtering
 
 ## What It Does
